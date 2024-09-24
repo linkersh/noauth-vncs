@@ -1,4 +1,4 @@
-### Usagae
+### Usage
 
 - git clone this repository
 - install rust if you haven't already
